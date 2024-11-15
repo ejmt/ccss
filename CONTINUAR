@@ -1,0 +1,6 @@
+Tarefas a realizar 
+- testar varias possibilidades de funcoes/procedimentos com parametros e variaveis locais e ver como fica.
+- ajustar o numero de parametros das rotinas da biblioteca pois nem todas tem 1 (um) parametro.
+- printf (acrescentar %s)
+- implementar scanf (usando gets, getchar, lerint e etc)
+Boa sorte!

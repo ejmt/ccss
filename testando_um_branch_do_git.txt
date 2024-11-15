@@ -1,0 +1,2 @@
+Testando se essa modificação vai ficar no "testando"
+e depois em "master" após o merge.
